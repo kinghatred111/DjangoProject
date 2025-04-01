@@ -2,15 +2,15 @@
 
 *Инструкция по запуску:*
 
-* Установка Django:
+1 Установка Django:
  
 * pip install django
 
-* Создание суперпользователя
+2 Создание суперпользователя
 
 * python manage.py createsuperuser
 
-* Запуск сервера
+3 Запуск сервера
 
 * python manage.py runserver
 
