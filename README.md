@@ -4,14 +4,14 @@
 
 * Установка Django:
  
-pip install django
+* pip install django
 
 * Создание суперпользователя
 
-python manage.py createsuperuser
+* python manage.py createsuperuser
 
 * Запуск сервера
 
-python manage.py runserver
+* python manage.py runserver
 
 **Выполнил:** Мальцев Александ Александрович
